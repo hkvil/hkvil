@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hkvil
+- 👋 Hi, I’m @hkvil/Hidayat
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on any java,c,frontend web
