@@ -6,7 +6,7 @@
 - 📫 How to reach me **elbert.herry11@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/hidayat-a8b12121b/</h3>
 <p align="left">
 </p>
 
