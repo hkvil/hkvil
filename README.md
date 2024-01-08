@@ -3,25 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkvil&label=Profile%20views&color=0e75b6&style=flat" alt="hkvil" /> </p>
 
-- 🔭 I’m currently working on [Tes](Tes)
-
-- 🌱 I’m currently learning **Tes**
-
-- 👯 I’m looking to collaborate on [Tes](Tes)
-
-- 🤝 I’m looking for help with [Tes](Tes)
-
-- 👨‍💻 All of my projects are available at [Tes](Tes)
-
-- 📝 I regularly write articles on [Tes](Tes)
-
-- 💬 Ask me about **Tes**
-
 - 📫 How to reach me **elbert.herry11@gmail.com**
 
-- 📄 Know about my experiences [Tes](Tes)
-
-- ⚡ Fun fact **Tes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
